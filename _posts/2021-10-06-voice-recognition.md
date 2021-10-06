@@ -5,7 +5,7 @@ show_date: true
 title: "调用讯飞语音api进行语音识别"
 date: 2021-10-06
 img: posts/20210420/post8-rembrandt.jpg
-tags: [copyright, creativity, neural networks, machine learning, artificial intelligence]
+tags: [copyright, speech recognition, machine learning, artificial intelligence]
 category: opinion
 author: HU YANG
 description: "how can we transfer audio to words?"
