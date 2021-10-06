@@ -6,7 +6,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://huyanghalo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/img/branding/MVM-logo-full.svg"
 logo-icon: "/assets/img/branding/MVM-symbol.svg"
-logo-icon-SEO: "/assets/img/branding/MVM-logo.png" # must be a non SVG file
+logo-icon-SEO: "/assets/img/branding/title.jpeg" # must be a non SVG file
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
@@ -30,7 +30,7 @@ about-author: A girl,trying to find something interesting in this world .
 
 # Contact links
 email: 1475890797@qq.com # Add your Email address
-phone: # Add your Phone number
+#phone: # Add your Phone number
 website: https://huyanghalo.github.io # Add your website
 #linkedin: amaynez # Add your Linkedin handle
 github: huyanghalo # Add your Github handle
