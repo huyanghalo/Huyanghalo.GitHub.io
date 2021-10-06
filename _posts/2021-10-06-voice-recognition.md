@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "调用讯飞语音api进行语音识别"
 date: 2021-10-06
-img: posts/20210420/post8-rembrandt.jpg
+img: posts/20211006/post8-rembrandt.jpg
 tags: [copyright, speech recognition, machine learning, artificial intelligence]
 category: opinion
 author: HU YANG
