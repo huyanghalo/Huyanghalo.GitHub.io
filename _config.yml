@@ -4,9 +4,9 @@ description: 'Artificial Intelligence trends and concepts made easy.' # this mea
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://huyanghalo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/assets/img/branding/logo.jpg"
-logo-icon: "/assets/img/branding/logo_small.jpg"
-logo-icon-SEO: "/assets/img/branding/logo_small.jpg" # must be a non SVG file
+logo: "/assets/img/branding/all those passed days.png"
+logo-icon: "/assets/img/branding/all those passed days.png"
+logo-icon-SEO: "/assets/img/branding/all those passed days.png" # must be a non SVG file
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
