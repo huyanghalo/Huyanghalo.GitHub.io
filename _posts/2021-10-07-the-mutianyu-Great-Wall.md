@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "慕田峪长城游记"
 date: 2021-10-07
-img: posts/20211007/all.jpg
+img: posts/20211007/scenery.jpg
 tags: [travel]
 category: travel
 author: HU YANG
