@@ -8,8 +8,7 @@ img: posts/20211009/pytorch_brand.png
 tags: [machine learning, copyright, artificial intelligence, pytorch]
 category: machine learning
 author: HU YANG
-description: " use with pytorch"
-
+description: "use with pytorch"
 ---
 ### CONCEPT
 
