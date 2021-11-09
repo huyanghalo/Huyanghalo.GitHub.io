@@ -2,9 +2,9 @@
 layout: post
 read_time: true
 show_date: true
-title: "ml2021-11-9 "
+title: "ml之 kernel function "
 date: 2021-11-9
-img: posts/machinel.jpeg
+img: posts/machinel.jpg
 tags: [machine learning]
 category: ml
 author: HU YANG
@@ -24,9 +24,13 @@ description: "my babe"
 
 :chestnut:一个带有特征映射的二维输入空间$\chi\subseteq\mathbb R^2$
 
-特征映射二维到三维 $\Phi:x=(x_1,x_2)\rightarrow \Phi(x)=(x_1^2,x_2^2,\sqrt{2}x_1x_2)\in F=\mathbb R^3$
+特征映射二维到三维 
+
+$\Phi:x=(x_1,x_2)\rightarrow \Phi(x)=(x_1^2,x_2^2,\sqrt{2}x_1x_2)\in F=\mathbb R^3$
 
 特征空间中的内积  
+
+![image-20211109112120045](/home/huyang/huyanghalo.github.io/assets/img/posts/20211109/p2.jpg)
 $$
 \begin{equation}\begin{split}
 <&\Phi(x),\Phi(z)>\\
@@ -46,10 +50,7 @@ $$
 
 #### Properity
 
-- symmetric(对称性)                     $\forall x,z \in \chi,k(x,z)=k(z,x)$
-- non-negative（正定性）           $\forall x,z \in \chi,k(x,z) \ge 0$​
-
-
+![map](E:\huyanghalo.github.io\_posts\assets\img\posts\20211109\p1.jpg)
 
 
 

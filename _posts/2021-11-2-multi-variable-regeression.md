@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "multi-label "
 date: 2021-11-2
-img: posts/20211011/thisisus.jpeg
+img: posts/multi-label.jpeg
 tags: [multi-label,machine learning]
 category: 
 author: HU YANG
